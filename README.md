@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @the13thson - Ameen Jakoet
+- 👋 Hi, I’m @the13thson
 - 👀 I’m interested in too much to be honest - Electronics & Embedded Software development
 - 🌱 I’m currently learning ... Always learning - C, C++, Java, Python
-- 💞️ I’m looking to collaborate on Pi projects
+- 💞️ I’m looking to collaborate on Pi & Arduino projects
 - 📫 How to reach me by DM
 
 <!---
